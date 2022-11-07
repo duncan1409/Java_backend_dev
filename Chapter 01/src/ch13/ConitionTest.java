@@ -11,7 +11,7 @@ public class ConitionTest {
     System.out.println("입력 2: ");
     int num2=scanner.nextInt();
 
-    max=(num1>num2)? num1:num2;
+    max=(num1>num2)? num1:num2; //삼항 연산자. (true)-> num1, (false)-> num2
     System.out.println(max);
 
   }

@@ -11,6 +11,7 @@ public class LocalVariableType {
     System.out.println(str);
 
     str="test";
-    //str=3; //var 한번 선언되면 다른 자료형으로 변환은 불가.
+    //str=3; 
+    //var 한번 선언되면 다른 자료형으로 변환은 불가.
   }
 }

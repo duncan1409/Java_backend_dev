@@ -17,7 +17,7 @@ public class CharacterTest {
     //char ch4=-66 음수는 대입 불가능!
 
     char ch5='한';
-    char ch6='\uD55C';
+    char ch6='\uD55C';//UNICODE
 
     System.out.println(ch5);
     System.out.println(ch6);
